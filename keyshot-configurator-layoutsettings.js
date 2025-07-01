@@ -30,7 +30,7 @@ layoutsettings =
     "showAutoHideButton": true,
     "showSingleTopLevelTitles": false,
     "sizeScrollbarWidth": 12,
-    "sizeThumbnailFont": 20,
+    "sizeThumbnailFont": 12,
     "sizeTitlesFont": 15,
     "studioIconRelativeSize": 50,
     "studioTabName": "View",
